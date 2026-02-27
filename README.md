@@ -29,6 +29,10 @@ $ git clone https://github.com/Carlitos1995/curso-frontend.git
 ## Commits
 Informações de alteração
  - após testando todo seu código
+ -git  add *
+ -git commit -m "com uma mensagem"
+ -git push (utilizo para enviar informações para o Repositório)
+ -git pull(puxar / trazer alterações do GitHub para minha máquina)
 
 ## GitFlow
 Fluxo do Git
