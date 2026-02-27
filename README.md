@@ -23,8 +23,8 @@ Mac (brew): brew install git
 
 ## Criar conta no GitHub
 
-##Clonar o Projecto
-
+## Clonar o Projecto
+$ git clone https://github.com/Carlitos1995/curso-frontend.git
 
 ## Commits
 Informações de alteração
