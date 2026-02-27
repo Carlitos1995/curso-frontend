@@ -51,9 +51,15 @@ Fluxo do Git
 
 ### Merge
 Mescala de branchs
+Você pode precisar resolver comflitos manualmente
 
 git merge main
 
 ### Pull Requests
 Mescala de branchs no repositório
 Permite Code Review
+O repositório resolve os conflitos automaticamente
+
+### configura o GitFlow
+git flow init
+git flow feature start {nome-da-feature}
