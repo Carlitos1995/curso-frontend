@@ -51,3 +51,9 @@ Fluxo do Git
 
 ### Merge
 Mescala de branchs
+
+git merge main
+
+### Pull Requests
+Mescala de branchs no repositório
+Permite Code Review
