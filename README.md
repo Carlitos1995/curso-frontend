@@ -36,3 +36,18 @@ Informações de alteração
 
 ## GitFlow
 Fluxo do Git
+
+
+### Branchs
+ São ramificações do codigo / versões paralelas
+
+ -main / master (vai para produção, quando o projecto é publicado)
+ - develop
+ -DDD Definition of Done: critérios de aceite 
+ -versionamento  (0.1.10, 0.2.11, 1.0.0)
+
+ git ckeckout -b dev (cria uma branch)
+  git ckeckout master (mudar de branch)
+
+### Merge
+Mescala de branchs
