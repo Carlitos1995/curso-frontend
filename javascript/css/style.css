@@ -1,0 +1,95 @@
+/* CSS GERAL */
+
+           *{
+			  box-sizing: border-box;
+			}
+
+			html{
+				margin: 0;
+				padding: 0;
+				font-family: serif;
+			}
+
+			body {
+			  background-color: white;
+			}
+
+			h1,h2,p{
+				font-family: Arial, Helvetica, sans-serif;
+				color: #454545;
+			}
+
+			a{
+				color: #336;
+				text-decoration: none;
+			}
+
+			#primeiro-link > a{
+				color: #933;
+			}
+
+			ul{
+				background-color: yellowgreen;
+			}
+
+			.navegacao{
+				background-color: #ffffff;
+			}
+
+			.navegacao a{
+				color: #383;
+			}
+
+			form{
+			 background: #ddd;
+			 padding: 20px;
+			 display: block;
+			 margin: 20px auto;
+			 width: 50%;
+			}
+
+			h2{
+				margin-bottom: 2rem;
+				margin-top: 0.5rem;
+			}
+
+           
+
+
+input, button{
+	display: block;
+	margin-bottom: 20px;
+	font-size: 1.6rem;
+}
+
+input{
+	width: 80%;
+	padding: 1rem 2rem;
+}
+
+button{
+	border: 0 none;
+	border-radius: 2rem;
+	color: #fff;
+	background-color: #2121be;
+	width: 10rem;
+	padding: 1rem 2rem;
+	cursor: pointer;
+	margin-bottom: 0px;
+}
+
+button{
+	background-color: #4545c2;
+}
+
+.mensagem,
+#resultado{
+	font-size: 2rem;
+	text-align: center;
+	padding: 2rem;
+}
+
+
+.erro{
+	border-color: #f00;
+}
